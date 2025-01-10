@@ -12,3 +12,4 @@ Comsoft was created in 2023 by developer [Gabriel Bastos](https://github.com/), 
 [![Visit Site](https://img.icons8.com/color/48/internet--v1.png)](https://www.comsoft.com.br/)
 [![Visit](https://img.icons8.com/color/48/instagram-new--v1.png)](https://www.instagram.com/comsoft_inovacoes)
 [![Visit](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/company/comsoft-inovacoes)
+[![Contact us](https://img.icons8.com/color/48/whatsapp--v1.png)](https://api.whatsapp.com/send/?phone=5583996756668&text&type=phone_number&app_absent=0)
